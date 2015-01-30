@@ -300,5 +300,4 @@ public class BlockIronChest extends BlockContainer {
         return false;
     }
 
-    //Test
 }
